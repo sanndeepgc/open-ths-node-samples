@@ -1,5 +1,5 @@
 import {Student} from './classes/student'
-import {personPrototype} from "./classes/objectprototype";
+import {personPrototype} from "./classes/prototypeobject";
 
 const message: string = "Congratulations, this is your node project";
 console.log(message);
